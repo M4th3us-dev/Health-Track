@@ -30,3 +30,9 @@
 .register-tittle h2 {
     font-size: 25px;
 }
+register .form-group label {
+    font-size: 14px;
+} 
+.register .form-group input {
+    font-size: 14px;
+}
